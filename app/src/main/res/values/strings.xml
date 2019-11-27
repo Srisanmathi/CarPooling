@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">hw7</string>
+    <string name="username">User Name</string>
+    <string name="password">Password (6 or more characters)</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="avatar">Profile Avatar</string>
+    <string name="upload">Upload from gallery</string>
 </resources>
